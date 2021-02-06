@@ -1,2 +1,2 @@
 # Ethical-Hacking
-This is a creation of my work in ethical hacking and pursuing the world championship.
+This is my journey towards a world hacking championship June 2020 - Present
