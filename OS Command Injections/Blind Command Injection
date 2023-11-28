@@ -1,0 +1,1 @@
+Time-based attacks: ;sleep 5, ;sleep 10, or ||ping+-c+10+127.0.0.1|| = Goal to trigger a time delay for Blind os Command Injection.
